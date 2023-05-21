@@ -1,0 +1,16 @@
+.loginPage{
+    width: fit-content;
+    font-size: large;
+    font-weight: 300;
+    color: blueviolet;
+   margin-left: 20rem;
+   margin-top: 3rem;
+   display: flex;
+}
+
+.loginButton{
+color: brown;
+width: 20rem;
+height: 2rem;
+margin-left: 2rem;
+}
